@@ -1,8 +1,5 @@
 # Excel-Dashboard
 
-A Journey of learning and Growth🛩.
-
-Hello Connections.
 
 🚀 Excited to share my latest achievement in data visualization! 📊 Check out the Excel dashboard I crafted, showcasing critical insights and trends within our sales data. 📈
 
